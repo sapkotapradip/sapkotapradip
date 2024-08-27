@@ -4,7 +4,7 @@
 # 👯 I am passionate about plant breeding, genomics, phenomics, machine learning, staistical modeling, and/or data science
 # 💬 Ask me about R, Plant breeding, predictive modeling, breeding methodologies esp for hybrid crops
 # 📫 How to reach me: prdp@tamu.edu
-# ⚡ Fun fact: Have you ever have fried hornets ? you'll like it
+# ⚡ Fun fact: Have you ever had fried hornets ? you'll like it
 
 
 <!--
