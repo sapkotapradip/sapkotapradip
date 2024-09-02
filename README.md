@@ -6,6 +6,15 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Plant and Soil Science | MS | Texas Tech University (_2018 - 2020_)
 - Agriculture (Plant Breeding) | BS | Tribhuvan University (_2011 - 2015_)
 
+
+### Work Experience
+- Graduate Research Assistant, Sorghum Breeding Lab, Texas A&M University (_May 2022- Present_)
+- Graduate Teaching Assistant, SCSC 105 World Food and Fiber Crops, Texas A&M University (_Jan 2024- May 2024_)
+- Researcher, Institute of Genomics for Crop Abiotic Stress Tolerance, Texas Tech University (_Jan 2021- Apr 2022_)
+- Graduate Research Assistant, Peanut and Guar Breeding Lab, Texas Tech University/Texas A&M AgriLife-Lubbock (_Aug 2018- Dec 2020_)
+- District Seed Coordinator, Improved Seed for Farmers Program, Ministry of Agricultural Development, Government of Nepal (_Mar 2018- Jul 2018_)
+- Technical Officer, Agriculture and Food Security Project Component-1, Nepal Agricultural Research Council (_Apr 2016- Mar 2018_)
+
 ### PhD projects
 - Predicting sorghum hybrid performance using genomic and phenomic data
 - Assessing heritability, combining abilities, and genomic selection for grain characterstics in elite sorghum hybrids
@@ -20,14 +29,6 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Profitable Production in the Southwestern United States”_ at 2020 ASA-CSSA-SSSA International Annual Meeting, USA (remote)
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for cultivation in Southwestern United States”_ at 2019 ASA-CSSA-SSSA International Annual Meeting, San Antonio, Texas, USA
  
-### Work Experience
-- Graduate Research Assistant, Sorghum Breeding Lab, Texas A&M University (_May 2022- Present_)
-- Graduate Teaching Assistant, SCSC 105 World Food and Fiber Crops, Texas A&M University (_Jan 2024- May 2024_)
-- Researcher, Institute of Genomics for Crop Abiotic Stress Tolerance, Texas Tech University (_Jan 2021- Apr 2022_)
-- Graduate Research Assistant, Peanut and Guar Breeding Lab, Texas Tech University/Texas A&M AgriLife-Lubbock (_Aug 2018- Dec 2020_)
-- District Seed Coordinator, Improved Seed for Farmers Program, Ministry of Agricultural Development, Government of Nepal (_Mar 2018- Jul 2018_)
-- Technical Officer, Agriculture and Food Security Project Component-1, Nepal Agricultural Research Council (_Apr 2016- Mar 2018_)
-
 ### Computational Skills
 - Proficient in Rstudio, Python and Git
 - Linux data manipulation and handling (Bash scripting)
