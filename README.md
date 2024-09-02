@@ -30,5 +30,5 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Awardee, Dudley Smith Family Graduate Travel Scholarship Award 2023, Department of Soil and Crop Sciences, Texas A&M University
 
 ### Volunteer services/roles
-- Helper for R and Python (two-day workshop), Open Science Open Software Workshop 2024, Texas A&M University, 08/24/2024 - 08/25/2024
-- Scientific Program Manager, Member- TAMU Plant Breeding Symposium Organizing Committee 2024/2025
+- Helper for R and Python (two-day workshop), Open Science Open Software Workshop 2024, Texas A&M University, _08/24/2024 - 08/25/2024_
+- Scientific Program Manager, Member- TAMU Plant Breeding Symposium Organizing Committee _2024/2025_
