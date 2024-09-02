@@ -22,22 +22,22 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (germplasm development and predictive breeding)
 
 ### Conferences / Presentations
-- Presented at Sorghum Improvement Conference of North America 2024 (SICNA 2024) on _"Multi-trait genomic prediction models to support index selection in sorghum"_ at Oklahoma City, Oklahoma
+- Presented at Sorghum Improvement Conference of North America 2024 (SICNA 2024) on _"Multi-trait Genomic Prediction Models to Support Index Selection in Sorghum"_ at Oklahoma City, Oklahoma
 - Gave a talk on _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_ at 2024 Plant Breeding Symposium, Texas A&M University, College Station 2/15/2024
 - Poster presentation and 5-minutes rapid talk on _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_ at  2023 ASA-CSSA-SSSA International Annual Meeting, St. Louis, Missouri, USA
 - Poster Presentation entitled _“Genomic Selection for Grain Composition in Sorghum”_ at 2023 Plant Breeding Symposium, Texas A&M University, College Station
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Profitable Production in the Southwestern United States”_ at 2020 ASA-CSSA-SSSA International Annual Meeting, USA (remote)
-- Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for cultivation in Southwestern United States”_ at 2019 ASA-CSSA-SSSA International Annual Meeting, San Antonio, Texas, USA
+- Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Cultivation in Southwestern United States”_ at 2019 ASA-CSSA-SSSA International Annual Meeting, San Antonio, Texas, USA
 
 ### Publications
-- Sapkota, P., Fonseca, J., Crossa, J., Ramasamy, P., & Rooney W.L. 2024. _Near Infrared Spectroscopy based phenomic data can improve genomic prediction of sorghum agronomic and kernel-related traits across environments_ (Under revision)
-- Sapkota, P., Fonseca, J., Ramasamy, P., & Rooney W.L. 2024. _Assessing heritability, combining abilities and genomic selection for grain characteristics in sorghum using multi-environment breeding trials_ (Under revision)
-- Pariyar, K., Sapkota, P., Panta, S., Sharma, S.R., & Karki, T.B. 2019. _Effects of varieties and planting geometries on growth and yield of rain-fed rice in Dailkeh, Nepal. Journal of Agriculture and Natural Resources. Vol. 2 (2): 145-146._
-- Pariyar, K., Chaudhary, A., Sapkota, P., Sharma, S.R., Rana, C.B., & Shrestha, J. 2019. _Effects of conservation agriculture on productivity and economics of maize based cropping systems in mid-western region of Nepal._ SAARC Journal of Agriculture. Vol. 17(1): 49-63.
-- Pariyar, K., Sapkota, P., Panta, S., Buda, P. & Karki, T.B. 2018. _Performance and variation in phenotypic characters of maize genotypes in mid-western region of Nepal._ International Journal of Agriculture, Environment and Food Sciences, Vol. 2 (3): 109-113.
-- Kandel, M., Bastola, A., Sapkota, P., Chaudhary, O., Dhakal, P., Chalise, P. & Shrestha J. 2018. _Analysis of genetic diversity among the different wheat (Triticum aestivum L.) genotypes._ Turkish Journal of Agricultural and Natural Sciences, Vol. 5 (2): 180-185.
-- Kandel, M., Bastola, A., Sapkota, P., Chaudhary, O., Dhakal, P., Chalise, P. & Shrestha J. 2017. _Association and path coefficient analysis of grain yield and its attributing traits in different genotypes of wheat (Triticum aestivum L.)._ International Journal of Applied Sciences and Biotechnology. Vol. 5 (4): 449-453.
-- Sapkota, P., Pariyar, K., Panta, S., Chaudhary, J.N., Budha, P. & Subedi, K. 2017. _Raising crop productivity through integrated management and varietal promotion of cereals for enhancing food security in Dailekh district of Nepal._ Proceedings of the 12th National Outreach Research Workshop, 76-81. 
+- Sapkota, P., Fonseca, J., Crossa, J., Ramasamy, P., & Rooney W.L. 2024. _Near Infrared Spectroscopy based Phenomic Data can Improve Genomic Prediction of Sorghum Agronomic and Kernel-related Traits Across Environments_ (Under revision)
+- Sapkota, P., Fonseca, J., Ramasamy, P., & Rooney W.L. 2024. _Assessing Heritability, Combining Abilities and Genomic Selection for Grain Characteristics in Sorghum using Multi-environment Breeding Trials_ (Under revision)
+- Pariyar, K., Sapkota, P., Panta, S., Sharma, S.R., & Karki, T.B. 2019. _Effects of Varieties and Planting Geometries on Growth and Yield of Rain-fed Rice in Dailkeh, Nepal._ Journal of Agriculture and Natural Resources. Vol. 2 (2): 145-146.
+- Pariyar, K., Chaudhary, A., Sapkota, P., Sharma, S.R., Rana, C.B., & Shrestha, J. 2019. _Effects of Conservation Agriculture on Productivity and Economics of Maize based Cropping Systems in Mid-western Region of Nepal._ SAARC Journal of Agriculture. Vol. 17(1): 49-63.
+- Pariyar, K., Sapkota, P., Panta, S., Buda, P. & Karki, T.B. 2018. _Performance and Variation in Phenotypic Characters of Maize Genotypes in Mid-western Region of Nepal._ International Journal of Agriculture, Environment and Food Sciences, Vol. 2 (3): 109-113.
+- Kandel, M., Bastola, A., Sapkota, P., Chaudhary, O., Dhakal, P., Chalise, P. & Shrestha J. 2018. _Analysis of Genetic Diversity among the Different Wheat (Triticum aestivum L.) Genotypes._ Turkish Journal of Agricultural and Natural Sciences, Vol. 5 (2): 180-185.
+- Kandel, M., Bastola, A., Sapkota, P., Chaudhary, O., Dhakal, P., Chalise, P. & Shrestha J. 2017. _Association and Path Coefficient Analysis of Grain Yield and its Attributing Traits in Different Genotypes of Wheat (Triticum aestivum L.)._ International Journal of Applied Sciences and Biotechnology. Vol. 5 (4): 449-453.
+- Sapkota, P., Pariyar, K., Panta, S., Chaudhary, J.N., Budha, P. & Subedi, K. 2017. _Raising Crop Productivity through Integrated Management and Varietal Promotion of Cereals for Enhancing Food Security in Dailekh District of Nepal._ Proceedings of the 12th National Outreach Research Workshop, 76-81. 
 
 ### Computational Skills
 - Proficient in Rstudio, Python and Git
