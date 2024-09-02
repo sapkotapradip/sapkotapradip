@@ -19,7 +19,7 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Predicting sorghum hybrid performance using genomic and phenomic data
 - Assessing heritability, combining abilities, and genomic selection for grain characterstics in elite sorghum hybrids
 - Predicting performance of introgression sorghum germplasm using genomic data
-- Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (population development and predictive breeding)
+- Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (germplasm development and predictive breeding)
 
 ### Conferences / Presentations
 - Presented at Sorghum Improvement Conference of North America 2024 (SICNA 2024) on _"Multi-trait genomic prediction models to support index selection in sorghum"_ at Oklahoma City, Oklahoma
