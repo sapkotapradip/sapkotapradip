@@ -1,5 +1,5 @@
 # Hi there
-My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Texas A&M University. I work on strengthening predictive breeding strategies for grain composition traits and agronomic performance in grain sorghum hybrids. I used genomic data to predict performance of hybrids using prediction models. I have integrated NIR spectroscopy data into genomic models to predict hybrid performance on sorghum. The publication is under review. My all of the codes for performing prediction modeling will be made public soon. My linkidIn link is:  https://www.linkedin.com/in/sapkotapradip/
+My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Texas A&M University. I work on strengthening predictive breeding strategies for grain composition traits and agronomic performance in grain sorghum hybrids. I am interested in testing range of statistical models (non-linear and linear) in training prediction equations. In adddition, I have integrated NIR spectroscopy data into genomic models to predict hybrid performance on sorghum. The publication is under review. My all of the codes for performing prediction modeling will be made public soon. My linkidIn link is:  https://www.linkedin.com/in/sapkotapradip/
 
 ### Education
 - Plant Breeding and Genetics | PhD student | Texas A&M University,US (Graduating in Mid- 2025)
