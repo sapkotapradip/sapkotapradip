@@ -28,7 +28,15 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 ### Honours/Awards
 - Second place at 2024 Plant Breeding Symposium at Texas A&M University on the topic _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_
 - Awardee, Dudley Smith Family Graduate Travel Scholarship Award 2023, Department of Soil and Crop Sciences, Texas A&M University
+- Harold & Mary Dregne Graduate Program Endowment, Department of Plant and Soil Science, Texas Tech University, Lubbock, TX, 2020/ 2021
+- Harmon Staus Memorial Endowed Scholarship, Department of Plant and Soil Science, Texas Tech University, Lubbock, TX, 2019
+- David Koeppe Memorial Endowed Scholarship Award for the 2018-2019 Academic Year, Department of Plant and Soil Science, Texas Tech University, Lubbock, TX, 2018-2019
+- Certificate of Appreciation for Outstanding Dedication and Commitment, Technology Development and Adaptation, Agriculture and Food Security Project, Nepal Agricultural Research Council, Singhadarbar Plaza Kathmandu, Nepal, 2018
+- Certificate of Achievement for Completing the Handprint Challenge-2014 as a part of waste management and their economic utilization from IAAS, Paklihawa, 2014
+- Merit List Scholarship (B.Sc.Ag.), Tribhuvan University, IAAS Paklihawa Campus, 2011-2015
 
 ### Leadership roles / volunteering service
 - Helper for R and Python (two-day workshop), Open Science Open Software Workshop 2024, Texas A&M University, _08/24/2024 - 08/25/2024_
 - Scientific Program Manager, Member- TAMU Plant Breeding Symposium Organizing Committee _2024/2025_
+- Member of South Asian Youth Environmental Network (SAYEN) _Sep 2014 - Dec 2014_
+- Board Member, Youth Endeavor for Sustainable Agriculture (YES-Agriculture) _June 2014 - June 2015_
