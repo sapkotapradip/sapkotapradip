@@ -24,3 +24,7 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Proficient in Rstudio, Python and Git
 - Linux data manipulation and handling (Bash scripting)
 - JMP, SAS, Sigmaplot, Minitab
+
+### Honours/Awards
+- Second place at 2024 Plant Breeding Symposium at Texas A&M University on the topic _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_
+- Awardee, Dudley Smith Family Graduate Travel Scholarship Award 2023, Department of Soil and Crop Sciences, Texas A&M University
