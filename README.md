@@ -1,4 +1,6 @@
-# Plant Breeder, Predictive Statistics, Genomics, Phenomics, Machine Learning
+# Hi there
+I am currently a PhD student in sorghum breeding lab at Texas A&M University. I work on devising predictive breeding stratgies for grain composition traits and agronomic performance in grain sorghum hybrids. I used genomic data to predict performance of hybrids using prediction models. I have integrated NIR spectroscopy data into genomic models to predict hybrid performance on sorghum. The publication is under review. My all of the codes for performing prediction modeling will be made public soon.  
+
 linkedin: https://www.linkedin.com/in/sapkotapradip/
 
 ### Education
