@@ -62,10 +62,10 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Board Member, Youth Endeavor for Sustainable Agriculture (YES-Agriculture) _June 2014 - June 2015_
 
 ### Professional memberships
-- National Association of Plant Breeders                                                _Dec 2019 - present_
-- American Society of Agronomy                                                          _June 2019 - present_
-- Crop Science Society of America                                                       _June 2019 - present_
-- Soil Science Society of America                                                       _June 2019 - present_
-- Association of Nepalese Agricultural Professionals of Americas (NAPA)                 _Sep 2018 - present_
-- South Asian Youth Environmental Network (SAYEN)                                       _Sep 2014 - Dec 2014_
-- Youth Endeavor for Sustainable Agriculture (YES-Agriculture)                          _June 2014 - June 2015_
+- National Association of Plant Breeders:                                                _Dec 2019 - present_
+- American Society of Agronomy:                                                          _June 2019 - present_
+- Crop Science Society of America:                                                       _June 2019 - present_
+- Soil Science Society of America:                                                       _June 2019 - present_
+- Association of Nepalese Agricultural Professionals of Americas (NAPA):                 _Sep 2018 - present_
+- South Asian Youth Environmental Network (SAYEN):                                       _Sep 2014 - Dec 2014_
+- Youth Endeavor for Sustainable Agriculture (YES-Agriculture):                          _June 2014 - June 2015_
