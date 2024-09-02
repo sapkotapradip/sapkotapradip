@@ -28,7 +28,17 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Poster Presentation entitled _“Genomic Selection for Grain Composition in Sorghum”_ at 2023 Plant Breeding Symposium, Texas A&M University, College Station
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Profitable Production in the Southwestern United States”_ at 2020 ASA-CSSA-SSSA International Annual Meeting, USA (remote)
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for cultivation in Southwestern United States”_ at 2019 ASA-CSSA-SSSA International Annual Meeting, San Antonio, Texas, USA
- 
+
+### Publication
+- Sapkota, P., Fonseca, J., Crossa, J., Ramasamy, P., & Rooney W.L. 2024. _Near Infrared Spectroscopy based phenomic data can improve genomic prediction of sorghum agronomic and kernel-related traits across environments._ (Under revision)
+- Sapkota, P., Fonseca, J., Ramasamy, P., & Rooney W.L. 2024. _Assessing heritability, combining abilities and genomic selection for grain characteristics in sorghum using multi-environment breeding trials._ (Under revision)
+- Pariyar, K., Sapkota, P., Panta, S., Sharma, S.R., & Karki, T.B. 2019. _Effects of varieties and planting geometries on growth and yield of rain-fed rice in Dailkeh, Nepal. Journal of Agriculture and Natural Resources. Vol. 2 (2): 145-146._
+- Pariyar, K., Chaudhary, A., Sapkota, P., Sharma, S.R., Rana, C.B., & Shrestha, J. 2019. _Effects of conservation agriculture on productivity and economics of maize based cropping systems in mid-western region of Nepal. SAARC Journal of Agriculture. Vol. 17(1): 49-63._
+- Pariyar, K., Sapkota, P., Panta, S., Buda, P. & Karki, T.B. 2018. _Performance and variation in phenotypic characters of maize genotypes in Mid-Western Region of Nepal._ International Journal of Agriculture, Environment and Food Sciences, Vol. 2 (3): 109-113.
+- Kandel, M., Bastola, A., Sapkota, P., Chaudhary, O., Dhakal, P., Chalise, P. & Shrestha J. 2018. _Analysis of Genetic Diversity among the Different Wheat (Triticum aestivum L.) Genotypes._ Turkish Journal of Agricultural and Natural Sciences, Vol. 5 (2): 180-185.
+- Kandel, M., Bastola, A., Sapkota, P., Chaudhary, O., Dhakal, P., Chalise, P. & Shrestha J. 2017. _Association and Path Coefficient Analysis of Grain Yield and Its   Attributing Traits in Different Genotypes of Wheat (Triticum aestivum L.)._ International Journal of Applied Sciences and Biotechnology. Vol. 5 (4): 449-453.
+- Sapkota, P., Pariyar, K., Panta, S., Chaudhary, J.N., Budha, P. & Subedi, K. 2017. _Raising crop productivity through Integrated Management and Varietal Promotion of cereals for enhancing food security in Dailekh district of Nepal._ Proceedings of the 12th National Outreach Research Workshop, 76-81. 
+
 ### Computational Skills
 - Proficient in Rstudio, Python and Git
 - Linux data manipulation and handling (Bash scripting)
