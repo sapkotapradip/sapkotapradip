@@ -15,13 +15,13 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - District Seed Coordinator, Improved Seed for Farmers Program, Ministry of Agricultural Development, Government of Nepal (_Mar 2018- Jul 2018_)
 - Technical Officer, Agriculture and Food Security Project Component-1, Nepal Agricultural Research Council (_Apr 2016- Mar 2018_)
 
-### PhD projects
+### PhD Projects
 - Predicting sorghum hybrid performance using genomic and phenomic data
 - Assessing heritability, combining abilities, and genomic selection for grain characterstics in elite sorghum hybrids
 - Predicting performance of introgression sorghum germplasm using genomic data
 - Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (population development and predictive breeding)
 
-### Conferences/presentation
+### Conferences / Presentations
 - Presented at Sorghum Improvement Conference of North America 2024 (SICNA 2024) on _"Multi-trait genomic prediction models to support index selection in sorghum"_ at Oklahoma City, Oklahoma
 - Gave a talk on _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_ at 2024 Plant Breeding Symposium, Texas A&M University, College Station 2/15/2024
 - Poster presentation and 5-minutes rapid talk on _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_ at  2023 ASA-CSSA-SSSA International Annual Meeting, St. Louis, Missouri, USA
@@ -29,7 +29,7 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Profitable Production in the Southwestern United States”_ at 2020 ASA-CSSA-SSSA International Annual Meeting, USA (remote)
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for cultivation in Southwestern United States”_ at 2019 ASA-CSSA-SSSA International Annual Meeting, San Antonio, Texas, USA
 
-### Publication
+### Publications
 - Sapkota, P., Fonseca, J., Crossa, J., Ramasamy, P., & Rooney W.L. 2024. _Near Infrared Spectroscopy based phenomic data can improve genomic prediction of sorghum agronomic and kernel-related traits across environments_ (Under revision)
 - Sapkota, P., Fonseca, J., Ramasamy, P., & Rooney W.L. 2024. _Assessing heritability, combining abilities and genomic selection for grain characteristics in sorghum using multi-environment breeding trials_ (Under revision)
 - Pariyar, K., Sapkota, P., Panta, S., Sharma, S.R., & Karki, T.B. 2019. _Effects of varieties and planting geometries on growth and yield of rain-fed rice in Dailkeh, Nepal. Journal of Agriculture and Natural Resources. Vol. 2 (2): 145-146._
@@ -44,7 +44,7 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Linux data manipulation and handling (Bash scripting)
 - JMP, SAS, Sigmaplot, Minitab
 
-### Honours/Awards
+### Honours / Awards
 - Second place at 2024 Plant Breeding Symposium at Texas A&M University on the topic _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_
 - Awardee, Dudley Smith Family Graduate Travel Scholarship Award 2023, Department of Soil and Crop Sciences, Texas A&M University
 - Mentee, Bayer Crop Science University Mentoring Program, cohort of 2023-2024
@@ -55,13 +55,13 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Certificate of Achievement for Completing the Handprint Challenge-2014 as a part of waste management and their economic utilization from IAAS, Paklihawa, 2014
 - Merit List Scholarship (B.Sc.Ag.), Tribhuvan University, IAAS Paklihawa Campus, 2011-2015
 
-### Leadership roles / volunteering service
+### Leadership Roles / Volunteering Services
 - Helper for R and Python (two-day workshop), Open Science Open Software Workshop 2024, Texas A&M University, _08/24/2024 - 08/25/2024_
 - Scientific Program Manager, Member- TAMU Plant Breeding Symposium Organizing Committee _2024/2025_
 - Member of South Asian Youth Environmental Network (SAYEN) _Sep 2014 - Dec 2014_
 - Board Member, Youth Endeavor for Sustainable Agriculture (YES-Agriculture) _June 2014 - June 2015_
 
-### Professional memberships
+### Professional Memberships
 - National Association of Plant Breeders:                                                _Dec 2019 - present_
 - American Society of Agronomy:                                                          _June 2019 - present_
 - Crop Science Society of America:                                                       _June 2019 - present_
