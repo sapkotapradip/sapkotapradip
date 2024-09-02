@@ -12,6 +12,14 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Predicting performance of introgression sorghum germplasm using genomic data
 - Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (population development and predictive breeding)
 
+### Conferences/presentation
+- Presented at Sorghum Improvement Conference of North America 2024 (SICNA 2024) on "Multi-trait genomic prediction models to support index selection in sorghum" at Oklahoma City, Oklahoma
+- Gave a talk on “Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”, 2024 Plant Breeding Symposium, Texas A&M University, College Station 2/15/2024
+- Poster presentation and 5-minutes rapid talk on “Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data” at  2023 ASA-CSSA-SSSA International Annual Meeting, St. Louis, Missouri, USA
+- Poster Presentation entitled _“Genomic Selection for Grain Composition in Sorghum”_ at 2023 Plant Breeding Symposium, Texas A&M University, College Station
+- Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Profitable Production in the Southwestern United States”_ at 2020 ASA-CSSA-SSSA International Annual Meeting, USA (remote)
+- Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for cultivation in Southwestern United States”_ at 2019 ASA-CSSA-SSSA International Annual Meeting, San Antonio, Texas, USA
+ 
 ### Work Experience
 - Graduate Research Assistant, Sorghum Breeding Lab, Texas A&M University (_May 2022- Present_)
 - Graduate Teaching Assistant, SCSC 105 World Food and Fiber Crops, Texas A&M University (_Jan 2024- May 2024_)
@@ -28,6 +36,7 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 ### Honours/Awards
 - Second place at 2024 Plant Breeding Symposium at Texas A&M University on the topic _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_
 - Awardee, Dudley Smith Family Graduate Travel Scholarship Award 2023, Department of Soil and Crop Sciences, Texas A&M University
+- Mentee, Bayer Crop Science University Mentoring Program, cohort of 2023-2024
 - Harold & Mary Dregne Graduate Program Endowment, Department of Plant and Soil Science, Texas Tech University, Lubbock, TX, 2020/ 2021
 - Harmon Staus Memorial Endowed Scholarship, Department of Plant and Soil Science, Texas Tech University, Lubbock, TX, 2019
 - David Koeppe Memorial Endowed Scholarship Award for the 2018-2019 Academic Year, Department of Plant and Soil Science, Texas Tech University, Lubbock, TX, 2018-2019
