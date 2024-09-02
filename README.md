@@ -1,3 +1,19 @@
+# Plant Breeder, Predictive Statistics, Genomics, Phenomics, Machine Learning
+
+### Education
+Plant Breeding and Genetics, PhD student (Graduating in Mid- 2025)
+
+### PhD projects
+- Predicting sorghum hybrid performance using genomic and phenomic data
+- Assessing heritability, combining abilities, and genomic selection for grain characterstics in elite sorghum hybrids
+- Predicting performance of introgression sorghum germplasm using genomic data
+- Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (population development and predictive breeding)
+
+
+
+
+
+
 ## Hi there 👋
 # 🔭 I’m currently working on sorghum breeding lab at Texas A&M University
 # 🌱 I use R, Python, Linux, and Command prompts for data handling and statistical modeling to answer major research questions
