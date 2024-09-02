@@ -13,9 +13,9 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (population development and predictive breeding)
 
 ### Conferences/presentation
-- Presented at Sorghum Improvement Conference of North America 2024 (SICNA 2024) on "Multi-trait genomic prediction models to support index selection in sorghum" at Oklahoma City, Oklahoma
-- Gave a talk on “Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”, 2024 Plant Breeding Symposium, Texas A&M University, College Station 2/15/2024
-- Poster presentation and 5-minutes rapid talk on “Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data” at  2023 ASA-CSSA-SSSA International Annual Meeting, St. Louis, Missouri, USA
+- Presented at Sorghum Improvement Conference of North America 2024 (SICNA 2024) on _"Multi-trait genomic prediction models to support index selection in sorghum"_ at Oklahoma City, Oklahoma
+- Gave a talk on _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_ at 2024 Plant Breeding Symposium, Texas A&M University, College Station 2/15/2024
+- Poster presentation and 5-minutes rapid talk on _“Predicting Sorghum Hybrid Performance using Genomic and Phenomic Data”_ at  2023 ASA-CSSA-SSSA International Annual Meeting, St. Louis, Missouri, USA
 - Poster Presentation entitled _“Genomic Selection for Grain Composition in Sorghum”_ at 2023 Plant Breeding Symposium, Texas A&M University, College Station
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Profitable Production in the Southwestern United States”_ at 2020 ASA-CSSA-SSSA International Annual Meeting, USA (remote)
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for cultivation in Southwestern United States”_ at 2019 ASA-CSSA-SSSA International Annual Meeting, San Antonio, Texas, USA
