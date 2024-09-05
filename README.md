@@ -58,6 +58,7 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 ### Leadership Roles / Volunteering Services
 - Helper for R and Python (two-day workshop), Open Science Open Software Workshop 2024, Texas A&M University, _08/24/2024 - 08/25/2024_
 - Scientific Program Manager, Member- TAMU Plant Breeding Symposium Organizing Committee _2024/2025_
+- Volunteer (responsible for picking up/dropping off external speakers), TAMU Plant Breeding Symposium _2023/2024_
 - Member of South Asian Youth Environmental Network (SAYEN) _Sep 2014 - Dec 2014_
 - Board Member, Youth Endeavor for Sustainable Agriculture (YES-Agriculture) _June 2014 - June 2015_
 
