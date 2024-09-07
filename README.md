@@ -29,10 +29,9 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Profitable Production in the Southwestern United States”_ at 2020 ASA-CSSA-SSSA International Annual Meeting, USA (remote)
 - Oral presentation on _“Evaluation of Breeding Populations of Cluster Bean (Cyamopsis tetragonoloba L.) for Cultivation in Southwestern United States”_ at 2019 ASA-CSSA-SSSA International Annual Meeting, San Antonio, Texas, USA
 - Presented on _Raising Crop Productivity through Integrated Management and Varietal Promotion of Cereals for Enhancing Food Security in Dailekh District of Nepal._ at 12th National Outreach Research Workshop, National Maize Research Program (NMRP), Rampur, Nepal at 18-19 June, 2017
-- Participated on a week long training on _Multiplication of pre-released and/or promising crop varieties for quicker adoption and dissemination_ organized by Agriculture and Food Security Project Component-1 at Darbar Hotel, Banke, Nepal on 9- 
-16 November, 2016
-- Participated on Training cum workshop on _Innovative Rice Production Techniques_ at Regional Agricutlural Research Station, Banke, Nepal on 4-5 July 2016
-- Participated on two day workshop on _Research-Extension Interface_ on 25-26 May 2016 at Regional Agricultural Research Station (RARS), Banke, Nepal 
+- Participated on a week long training on _Multiplication of pre-released and/or promising crop varieties for quicker adoption and dissemination_ organized by Agriculture and Food Security Project Component-1 at Darbar Hotel, Banke, Nepal on 9 - 16 November, 2016
+- Participated on Training cum workshop on _Innovative Rice Production Techniques_ at Regional Agricutlural Research Station, Banke, Nepal on 4 - 5 July 2016
+- Participated on two day workshop on _Research-Extension Interface_ on 25 - 26 May 2016 at Regional Agricultural Research Station (RARS), Banke, Nepal 
 
 ### Publications
 - Sapkota, P., Fonseca, J., Crossa, J., Ramasamy, P., & Rooney W.L. 2024. _Near Infrared Spectroscopy based Phenomic Data can Improve Genomic Prediction of Sorghum Agronomic and Kernel-related Traits Across Environments_ (Under revision)
