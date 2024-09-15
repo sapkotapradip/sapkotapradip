@@ -18,7 +18,7 @@ My name is Pradip Sapkota -currently a PhD student in sorghum breeding lab at Te
 ### PhD Projects
 - Predicting sorghum hybrid performance using genomic and phenomic data
 - Assessing heritability, combining abilities, and genomic selection for grain characterstics in elite sorghum hybrids
-- Predicting performance of introgression sorghum germplasm using genomic data
+- Optimizing genomic selection models to screen introgression germplasm of sorghum
 - Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (germplasm development and predictive breeding)
 
 ### Conferences / Presentations
