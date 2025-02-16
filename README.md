@@ -15,9 +15,10 @@ I am Pradip Sapkota, a PhD candidate in the sorghum breeding lab, from Texas A&M
 - Technical Officer, Agriculture and Food Security Project Component-1, Nepal Agricultural Research Council (_Apr 2016- Mar 2018_)
 
 ### PhD Projects
-- Predicting sorghum hybrid performance using genomic and phenomic data
-- Assessing heritability, combining abilities, and genomic selection for grain characterstics in elite sorghum hybrids
-- Optimizing genomic selection models to screen introgression germplasm of sorghum
+- Predicting sorghum hybrid performance using genomic and phenomic data (Integration of genomic and phenomic prediction)
+- Assessing heritability, combining abilities, single-trait and multi-trait genomic selection for grain quality traits in elite sorghum hybrids
+- Optimizing genomic selection models to screen introgression germplasm (BC-NAM populations) of sorghum 
+- Predicting sorghum hybrid performance using phenomic data obtained from inbred parents
 - Ideotype based breeding for leaf angle, stomatal dynamics, and drought tolerance (germplasm development and predictive breeding)
 
 ### Conferences / Presentations
