@@ -34,8 +34,8 @@ I am Pradip Sapkota, a PhD candidate in the sorghum breeding lab, from Texas A&M
 - Participated on two day workshop on _Research-Extension Interface_ on 25 - 26 May 2016 at Regional Agricultural Research Station (RARS), Banke, Nepal 
 
 ### Publications
-- Sapkota, P., Fonseca, J., Crossa, J., Ramasamy, P., & Rooney W.L. 2024. _Near Infrared Spectroscopy based Phenomic Data can Improve Genomic Prediction of Sorghum Agronomic and Kernel-related Traits Across Environments_ (Under revision)
-- Sapkota, P., Fonseca, J., Ramasamy, P., & Rooney W.L. 2024. _Assessing Heritability, Combining Abilities and Genomic Selection for Grain Characteristics in Sorghum using Multi-environment Breeding Trials_ (Under preparation)
+- Sapkota, P., Fonseca, J., Crossa, J., Ramasamy, P., & Rooney W.L. 2025. _Near Infrared Spectroscopy based Phenomic Data can Improve Genomic Prediction of Sorghum Agronomic and Kernel-related Traits Across Environments_ (Under revision)
+- Sapkota, P., Fonseca, J., Ramasamy, P., & Rooney W.L. 2025. _Assessing Heritability, Combining Abilities and Genomic Selection for Grain Characteristics in Sorghum using Multi-environment Breeding Trials_ (Under preparation)
 - Pariyar, K., Sapkota, P., Panta, S., Sharma, S.R., & Karki, T.B. 2019. _Effects of Varieties and Planting Geometries on Growth and Yield of Rain-fed Rice in Dailkeh, Nepal._ Journal of Agriculture and Natural Resources. Vol. 2 (2): 145-146.
 - Pariyar, K., Chaudhary, A., Sapkota, P., Sharma, S.R., Rana, C.B., & Shrestha, J. 2019. _Effects of Conservation Agriculture on Productivity and Economics of Maize based Cropping Systems in Mid-western Region of Nepal._ SAARC Journal of Agriculture. Vol. 17(1): 49-63.
 - Pariyar, K., Sapkota, P., Panta, S., Buda, P. & Karki, T.B. 2018. _Performance and Variation in Phenotypic Characters of Maize Genotypes in Mid-western Region of Nepal._ International Journal of Agriculture, Environment and Food Sciences, Vol. 2 (3): 109-113.
