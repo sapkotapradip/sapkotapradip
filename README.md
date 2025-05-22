@@ -34,6 +34,7 @@ I am Pradip Sapkota, a final year PhD candidate in the sorghum breeding lab, fro
 - Participated on two day workshop on _Research-Extension Interface_ on 25 - 26 May 2016 at Regional Agricultural Research Station (RARS), Banke, Nepal 
 
 ### Publications
+- Sapkota, P., Leon, F., Crozier, D., Klein, P.E., Klein, R.R. & Rooney W.L. 2025. _Near Infrared Spectroscopy data obtained from Inbred Parents could Accurately Predict Hybrid Performance in Sorghum across Environments_ (Under revision)
 - Sapkota, P., Fonseca, J., Crossa, J., Perumal, R., Klein, R., Awika, J. & Rooney W.L. 2025. _Near Infrared Spectroscopy based Phenomic Data can Improve Genomic Prediction of Sorghum Agronomic and Kernel-related Traits Across Environments_ (Under revision)
 - Sapkota, P., Fonseca, J., Perumal, R., Klein, R., Awika, J., & Rooney W.L. 2025. _Assessing Heritability, Combining Abilities and Genomic Selection for Grain Quality Traits in Sorghum using Multi-environment Breeding Trials_ (Under revision)
 - Pariyar, K., Sapkota, P., Panta, S., Sharma, S.R., & Karki, T.B. 2019. _Effects of Varieties and Planting Geometries on Growth and Yield of Rain-fed Rice in Dailkeh, Nepal._ Journal of Agriculture and Natural Resources. Vol. 2 (2): 145-146.
