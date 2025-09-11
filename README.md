@@ -2,7 +2,7 @@
 I am Pradip Sapkota, a final year PhD candidate in the sorghum breeding lab, from Texas A&M University. My research focuses on strengthening predictive breeding strategies for grain composition traits and agronomic performance in grain sorghum hybrids. I am interested in testing a range of statistical approaches (non-linear and linear) in training models to predict economically important traits. In addition, I am interested in integrating a range of omics data (phenomics and enviromics) into genomic selection models to optimize model performance. I find my passion in analyzing big data to discover patterns and implement those in real-world scenarios. All of my codes for performing analysis of multi-environment trials will be made available with publication. I am expecting to finish my PhD by mid-2025 and will be exploring suitable opportunities in the field of plant breeding, genomics, phenomics, enviromics, predictive breeding, and/or analytics. You can contact me at prdp@tamu.edu and find me at https://www.linkedin.com/in/sapkotapradip/ on Linkedin.
 
 ### Education
-- Plant Breeding and Genetics | PhD student | Texas A&M University,US (_Graduating in Mid - 2025_)
+- Plant Breeding and Genetics | PhD student | Texas A&M University,US (_Graduating in 2025_)
 - Plant and Soil Science | MS | Texas Tech University (_2018 - 2020_)
 - Agriculture (Plant Breeding) | BS | Tribhuvan University (_2011 - 2015_)
 
