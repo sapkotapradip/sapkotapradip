@@ -1,13 +1,14 @@
 # Hi there
-I am Pradip Sapkota, a final year PhD candidate in the sorghum breeding lab, from Texas A&M University. My research focuses on strengthening predictive breeding strategies for grain composition traits and agronomic performance in grain sorghum hybrids. I am interested in testing a range of statistical approaches (non-linear and linear) in training models to predict economically important traits. In addition, I am interested in integrating a range of omics data (phenomics and enviromics) into genomic selection models to optimize model performance. I find my passion in analyzing big data to discover patterns and implement those in real-world scenarios. All of my codes for performing analysis of multi-environment trials will be made available with publication. I am wrapping my PhD on December 2025 and will be exploring suitable opportunities in the field of plant breeding, genomics, phenomics, enviromics, predictive breeding, and/or analytics. You can contact me at prdp@tamu.edu and find me at https://www.linkedin.com/in/sapkotapradip/ on Linkedin.
+I am Pradip Sapkota, a postdocotral research associate in the sorghum breeding program, from Texas A&M University. I am involved in coordinating research within the Texas A&M AgriLife Research Sorghum Improvement Program. This includes management of comprehensive database integrating genotype and phenotype data. Such information would be used for devising traditional and modern predictive strategies to improve efficiency of the program. My PhD research focuses on strengthening predictive breeding strategies for grain composition traits and agronomic performance in grain sorghum hybrids. I am interested in testing a range of statistical approaches (non-linear and linear) in training models to predict economically important traits. In addition, I am interested in integrating a range of omics data (phenomics and enviromics) into genomic selection models to optimize model performance. I find my passion in analyzing big data to discover patterns and implement those in real-world scenarios. All of my codes for performing analysis of multi-environment trials were made available with publication. I am open for suitable collaboration in the field of plant breeding, genomics, phenomics, enviromics, predictive breeding, and/or analytics. You can contact me at prdp@tamu.edu and find me at https://www.linkedin.com/in/sapkotapradip/ on Linkedin.
 
 ### Education
-- Plant Breeding and Genetics | PhD student | Texas A&M University,US (_Graduating in 2025_)
-- Plant and Soil Science | MS | Texas Tech University (_2018 - 2020_)
-- Agriculture (Plant Breeding) | BS | Tribhuvan University (_2011 - 2015_)
+- Ph.D. in Plant Breeding | Texas A&M University,US (_2022 - 2025_)
+- M.S. in Plant and Soil Science | Texas Tech University (_2018 - 2020_)
+- B.S. Agriculture (Plant Breeding) | Tribhuvan University (_2011 - 2015_)
 
 ### Work Experience
-- Graduate Research Assistant, Sorghum Breeding Lab, Texas A&M University (_May 2022- Present_)
+- Postdoctoral Research Associate, Sorghum Breeding Lab, Texas A&M University (_Feb 2025 - Present_)
+- Graduate Research Assistant, Sorghum Breeding Lab, Texas A&M University (_May 2022- Dec 2025_)
 - Graduate Teaching Assistant, SCSC 105 World Food and Fiber Crops, Texas A&M University (_Jan 2024- May 2024_)
 - Researcher, Institute of Genomics for Crop Abiotic Stress Tolerance, Texas Tech University (_Jan 2021- Apr 2022_)
 - Graduate Research Assistant, Peanut and Guar Breeding Lab, Texas Tech University/Texas A&M AgriLife-Lubbock (_Aug 2018- Dec 2020_)
@@ -35,9 +36,9 @@ I am Pradip Sapkota, a final year PhD candidate in the sorghum breeding lab, fro
 - Participated on two day workshop on _Research-Extension Interface_ on 25 - 26 May 2016 at Regional Agricultural Research Station (RARS), Banke, Nepal 
 
 ### Publications
-- Sapkota, P., Leon, F., Crozier, D., Klein, P.E., Klein, R.R. & Rooney W.L. 2025. _Near Infrared Spectroscopy data obtained from Inbred Parents could Accurately Predict Hybrid Performance in Sorghum across Environments_ (Under revision)
-- Sapkota, P., Fonseca, J., Crossa, J., Perumal, R. & Rooney W.L. 2025. _Near-Infrared Spectroscopy-Based Phenomics Data Can Improve Genomic Prediction of Agronomic and Grain Quality Traits Across Multi-Environment Sorghum Hybrid Trials_, _Plants_, https://www.mdpi.com/2223-7747/14/18/2871 
-- Sapkota, P., Fonseca, J., Perumal, R., Klein, R., Awika, J., & Rooney W.L. 2025. _Assessing Heritability, Combining Abilities and Genomic Selection for Grain Quality Traits in Sorghum using Multi-environment Breeding Trials_ (Accepted by Crop Science)
+- Sapkota, P., Leon, F., Crozier, D. & Rooney W.L. 2025. _Near Infrared Spectroscopy data obtained from Inbred Parents could Accurately Predict Hybrid Performance in Sorghum across Environments_ (Submitted to The Plant Phenome)
+- Sapkota, P., Fonseca, J., Crossa, J., Perumal, R. & Rooney W.L. 2025. _Near-Infrared Spectroscopy-Based Phenomics Data Can Improve Genomic Prediction of Agronomic and Grain Quality Traits Across Multi-Environment Sorghum Hybrid Trials_, _Plants_ 14(8), https://www.mdpi.com/2223-7747/14/18/2871
+- Sapkota, P., Fonseca, J., Perumal, R., Klein, R., Awika, J., & Rooney W.L. 2025. _Genetic Architecture and Genomic Selection of Grain Quality Traits in Sorghum Hybrids across Multi-environment Breeding Trials_, _Crop Science_, 65(6), e70189. https://doi.org/10.1002/csc2.70189
 - Pariyar, K., Sapkota, P., Panta, S., Sharma, S.R., & Karki, T.B. 2019. _Effects of Varieties and Planting Geometries on Growth and Yield of Rain-fed Rice in Dailkeh, Nepal._ Journal of Agriculture and Natural Resources. Vol. 2 (2): 145-146.
 - Pariyar, K., Chaudhary, A., Sapkota, P., Sharma, S.R., Rana, C.B., & Shrestha, J. 2019. _Effects of Conservation Agriculture on Productivity and Economics of Maize based Cropping Systems in Mid-western Region of Nepal._ SAARC Journal of Agriculture. Vol. 17(1): 49-63.
 - Pariyar, K., Sapkota, P., Panta, S., Buda, P. & Karki, T.B. 2018. _Performance and Variation in Phenotypic Characters of Maize Genotypes in Mid-western Region of Nepal._ International Journal of Agriculture, Environment and Food Sciences, Vol. 2 (3): 109-113.
